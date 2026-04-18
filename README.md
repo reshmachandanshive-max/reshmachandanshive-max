@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi, I'm Reshma 👋   
 🔭 I’m currently working as a SQL Developer  <br>🌱 I’m focused on improving query optimization & performance tuning  <br>💬 Ask me about SQL Server, Stored Procedures, and Reporting  <br>📊 I enjoy working with sql complex queries and logics  <br>⚡ Turning complex data into simple insights
 
 
